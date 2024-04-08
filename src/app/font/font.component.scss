@@ -125,6 +125,7 @@ video {
   width: 242px;
   height: 45px;
   border-radius: 5px 5px 0px 0px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -140,12 +141,15 @@ video {
 }
 
 .te2 {
+  position: absolute;
   font-size: 13px;
   font-weight:400;
-  line-height: 14.4px;
+  line-height: 31.4px;
   letter-spacing: 0.02em;
   text-align: left;
   color: black;
+  left: 11px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .card {
@@ -162,5 +166,63 @@ video {
 
 .tet3 {
   font-size: 13px;
-  font-family: fantasy;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+.tet4 {
+  position: absolute;
+  font-size: 13px;
+  font-weight:400;
+  line-height: 31.4px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: black;
+  left: 12px;
+  top: 21px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tet5{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tet6 {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 18px;
+}
+
+.tet7{
+  position: absolute;
+  font-size: 13px;
+  font-weight:400;
+  line-height: 31.4px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: black;
+  left: 12px;
+  top: 58px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tet8{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  left: 88px;
+  top: 2px;
+}
+
+.tet9 {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  left: 12px;
+  top: 85px;
+}
+
+
+
