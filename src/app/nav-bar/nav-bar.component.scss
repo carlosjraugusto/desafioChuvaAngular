@@ -52,6 +52,8 @@ button {
   height: 34px;
   top: -12px;
   position: absolute;
+  background-color: #FDF1EB
+
 }
 
 img {
@@ -96,4 +98,11 @@ img {
   height: 30.63px;
   top: -13.65px;
   left: 297px;
+}
+
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 1 ;
+  background-color: #FDF1EB
+  !important;
 }
