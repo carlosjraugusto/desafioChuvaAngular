@@ -26,7 +26,7 @@ p {
   height: 31px;
   border-radius: 4px;
   top: 83px;
-  left: 1064px;
+  left: 1089px;
   background: rgb(250, 118, 56);
   color: white;
   border: 1px;
@@ -55,7 +55,7 @@ p {
   height: 31px;
   border-radius: 4px;
   top: 83px;
-  left: 1190px;
+  left: 1215px;
   background:  rgb(250, 118, 56);
   color: white;
   border: 1px;
@@ -76,7 +76,7 @@ p {
   height: 31px;
   border-radius: 4px;
   top: 83px;
-  left: 1240px;
+  left: 1265px;
   background:  rgb(250, 118, 56);
   color: white;
   border: 1px;
@@ -92,13 +92,31 @@ p {
 }
 
 i{
-  position: absolute;
   color:  rgb(250, 118, 56);
-  left: 1068px;
-
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 1096px;
+  top: 123px;
 }
 
 .com {
+  width:239px;
+  height: 25px;
+
+}
+
+video {
   position: absolute;
-  top: 97px;
+  width: 783px;
+  height: 439px;
+  border-radius: 3px;
+  left: 265px;
+  top: 155px;
+}
+
+
+.det {
+  position: absolute;
+  background:rgb(255, 165, 192) ;
 }
