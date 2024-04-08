@@ -120,6 +120,47 @@ video {
   position: absolute;
   background:rgb(255, 165, 192) ;
   top:28%;
-  left:107%;
+  left:1086px;
   font-size: 20px;
+  width: 242px;
+  height: 45px;
+  border-radius: 5px 5px 0px 0px;
+}
+
+
+
+.text1 {
+    position: absolute;
+     width: 212px;
+     height: 25px;
+     top:7px;
+     left: 10px;
+     color: #4E4E4E;
+     ;
+}
+
+.te2 {
+  font-size: 13px;
+  font-weight:400;
+  line-height: 14.4px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: black;
+}
+
+.card {
+    position: absolute;
+    width: 242px;
+    height: 388px;
+    top: 209px;
+    left: 1086px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 0px 0px 7px 7px;
+
+}
+
+.tet3 {
+  font-size: 13px;
+  font-family: fantasy;
 }
