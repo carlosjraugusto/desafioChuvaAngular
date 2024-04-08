@@ -15,8 +15,90 @@
 }
 
 p {
-  color: orangered;
-  font-size: 20px;
-  font-family: ;
+  color: rgb(247, 86, 28);
+  font-size: 22px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 
+.down {
+  position: absolute;
+  width: 120px;
+  height: 31px;
+  border-radius: 4px;
+  top: 83px;
+  left: 1064px;
+  background: rgb(250, 118, 56);
+  color: white;
+  border: 1px;
+}
+
+.img1 {
+  position: absolute;
+  left: -3px;
+  top: -3px;
+  width: 34px;
+  height: 33px;
+}
+
+.load {
+  position: absolute;
+  left: 29px;
+  top: 0px;
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.star{
+  position: absolute;
+  width: 43px;
+  height: 31px;
+  border-radius: 4px;
+  top: 83px;
+  left: 1190px;
+  background:  rgb(250, 118, 56);
+  color: white;
+  border: 1px;
+}
+
+.starimg {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  top: 3px;
+  left: 9px;
+
+}
+
+.gl {
+  position: absolute;
+  width: 43px;
+  height: 31px;
+  border-radius: 4px;
+  top: 83px;
+  left: 1240px;
+  background:  rgb(250, 118, 56);
+  color: white;
+  border: 1px;
+}
+
+.glo {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  top: 3px;
+  left: 9px;
+
+}
+
+i{
+  position: absolute;
+  color:  rgb(250, 118, 56);
+  left: 1068px;
+
+}
+
+.com {
+  position: absolute;
+  top: 97px;
+}
