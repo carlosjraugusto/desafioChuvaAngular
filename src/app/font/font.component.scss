@@ -108,6 +108,7 @@ i{
 
 video {
   position: absolute;
+  object-fit: cover;
   width: 783px;
   height: 439px;
   border-radius: 3px;
@@ -333,6 +334,54 @@ video {
   left: 23px;
 }
 
+.textvi1{
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  left: 306px;
+  top: 183px;
+}
+
+.textvi2{
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  left: 306px;
+  top: 206px;
+}
 
 
+.textvi3{
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  left: 305px;
+  top: 231px;
+}
 
+.fca {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  left: 392px;
+  top: 502px;
+}
+
+.bea{
+  position: absolute;
+  color: white;
+  font-size: 34px;
+  left: 391px;
+  top: 461px;
+}
+
+.iconbe{
+  position: absolute;
+  width: 84px;
+  height: 86px;
+  top: 448px;
+  left: 293px;
+  gap: 0px;
+  opacity: 0px;
+
+}
