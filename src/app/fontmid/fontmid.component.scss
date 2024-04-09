@@ -18,34 +18,44 @@
 .divtex {
   position: absolute;
   width: 1055px;
-  height: 175px;
+  height: auto;
   top: 697px;
   left: 263px;
   background: white;
   border-radius: 0px 0px 5px 5px;
   border: 2px solid #ECECEC;
   overflow: hidden;
-
-
 }
 
-.lermais {
-  cursor: pointer;
+.discu{
   position: absolute;
-  top: 145px;
-  left: 986px;
-  color: #ED7839;
-  ;
+  font-size: 20px;
+  top: 8px;
+  left: 23px;
 }
 
-.texto2{
+.dis {
   position: absolute;
   width: 1055px;
-  height: 180px;
-  top: 916px;
+  height: 45px;
+  top: 826px;
+  left: 263px;
+  background: #FDF1EB;
+  border-radius: 5px 5px 0px 0px;
+  display: flex;
+  overflow: hidden;
 }
 
-
-.lermais.active .divtex  {
-  height: auto;
+.discuss{
+  position: absolute;
+  width: 1055px;
+  height: 621px;
+  top: 873px;
+  left: 263px;
+  background: white;
+  border-radius: 0px 0px 5px 5px;
+  border: 2px solid #ECECEC;
+  overflow: hidden;
+  display: flex;
+  overflow: hidden;
 }
