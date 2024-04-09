@@ -13,3 +13,21 @@ export class FontmidComponent implements OnInit {
   }
 
 }
+
+const lermais = document.getElementById('read_lermais') as HTMLButtonElement | null;
+
+if (lermais) {
+  lermais.addEventListener('click', () => {
+    const divtex = document.querySelector('.divtex') as HTMLElement | null;
+
+    if (divtex) {
+      divtex.classList.toggle('active');
+
+      if (divtex.classList.contains('active')) {
+        lermais.textContent = 'ler menos';
+      } else {
+        lermais.textContent = 'ler mais';
+      }
+    }
+  });
+}

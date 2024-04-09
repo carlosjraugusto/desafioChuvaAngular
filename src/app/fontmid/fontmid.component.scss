@@ -1,0 +1,51 @@
+.res{
+  position: absolute;
+  width: 1055px;
+  height: 45px;
+  top: 650px;
+  left: 263px;
+  background: #FDF1EB;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.resu{
+  position: absolute;
+  font-size: 20px;
+  top: 8px;
+  left: 23px;
+}
+
+.divtex {
+  position: absolute;
+  width: 1055px;
+  height: 175px;
+  top: 697px;
+  left: 263px;
+  background: white;
+  border-radius: 0px 0px 5px 5px;
+  border: 2px solid #ECECEC;
+  overflow: hidden;
+
+
+}
+
+.lermais {
+  cursor: pointer;
+  position: absolute;
+  top: 145px;
+  left: 986px;
+  color: #ED7839;
+  ;
+}
+
+.texto2{
+  position: absolute;
+  width: 1055px;
+  height: 180px;
+  top: 916px;
+}
+
+
+.lermais.active .divtex  {
+  height: auto;
+}
