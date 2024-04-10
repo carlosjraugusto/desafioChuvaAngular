@@ -6,6 +6,7 @@ import { MenusidebarComponent } from './menusidebar/menusidebar.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { FontComponent } from './font/font.component';
 import { FontmidComponent } from './fontmid/fontmid.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { FontmidComponent } from './fontmid/fontmid.component';
     MenusidebarComponent,
     NavBarComponent,
     FontComponent,
-    FontmidComponent
+    FontmidComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
